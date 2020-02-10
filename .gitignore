@@ -1,0 +1,5 @@
+# ignre
+.idea/
+*.png
+*.gz
+data/
